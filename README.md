@@ -1,6 +1,4 @@
-Sure! Here’s a concise version of the `README.md` for your "College Chatbot Action" project:
 
----
 
 # 🎓 College Chatbot Action 🤖
 
