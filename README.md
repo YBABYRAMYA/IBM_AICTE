@@ -25,8 +25,8 @@ Contributions are welcome! Fork the repo, make your changes, and submit a pull r
 
 ## 📫 Contact
 
-**Kotla Govardhanarao**  
-[govardhanaraokotla27@gmail.com](mailto:govardhanaraokotla27@gmail.com)
+**Yalagandula BabyRamya**  
+[yalagandulababyramya@gmail.com](mailto:yalagandulababyramya@gmail.com)
 
 ---
 
@@ -34,4 +34,4 @@ Contributions are welcome! Fork the repo, make your changes, and submit a pull r
 
 ---
 
-Feel free to adjust the content to better fit your style and project specifics!
+
